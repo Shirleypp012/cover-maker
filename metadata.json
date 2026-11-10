@@ -1,0 +1,6 @@
+{
+  "name": "Knowledge Cover Studio",
+  "description": "基于 AI Agent 和节点式工作流的抖音、小红书、B站知识科普视频封面生产平台。集成无限画布、选题知识点提取、科学视觉渲染、文字图层排版、A/B/C方案对比及多端尺寸批量导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
